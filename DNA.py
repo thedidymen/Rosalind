@@ -25,9 +25,5 @@ def test():
     for i in nb:
         print freq[i],
 
-
-
-
-
 if __name__ == '__main__':
     test()
